@@ -1,3 +1,4 @@
+#simple Encryption Problem
 n =int(input())
 for x in range(n):
     a = input()
